@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fedorov_PR-33_prackt4_OKFCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9762d2ab04bb56ce7e5ba336820c2fe97437681c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05ca036d9b944831039c96560f5000ecd6742aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fedorov_PR-33_prackt4_OKFCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fedorov_PR-33_prackt4_OKFCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
