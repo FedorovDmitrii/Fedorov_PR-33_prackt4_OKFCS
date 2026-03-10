@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Fedorov_PR-33_prackt4_OKFCS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Fedorov_PR-33_prackt4_OKFCS_Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9152e85fec350d131ed4e3c9dd97b969577b07f9")]
-[assembly: System.Reflection.AssemblyProductAttribute("Fedorov_PR-33_prackt4_OKFCS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Fedorov_PR-33_prackt4_OKFCS")]
+[assembly: System.Reflection.AssemblyProductAttribute("Fedorov_PR-33_prackt4_OKFCS_Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Fedorov_PR-33_prackt4_OKFCS_Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -10,6 +10,15 @@ namespace Fedorov_PR_33_prackt4_OKFCS
     {
         public double Width { get; }
         public double Height { get; }
+        public Rectangle (double width, double height)
+        {
+            if (width <= 0 || height <= 0)
+            {
+                throw new ArgumentException("Стороны прямоугольника должна быть полоржительными.");
+            }
+            Width = width;
+            Height = height;
+        }
         public override double Area ()
         {
             return Width * Height;
