@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fedorov_PR-33_prackt4_OKFCS/1.0.0": {
+        "runtime": {
+          "Fedorov_PR-33_prackt4_OKFCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fedorov_PR-33_prackt4_OKFCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E823BDB6-2725-4148-B5B3-44CA02ACB050}|Fedorov_PR-33_prackt4_OKFCS_Tests\\Fedorov_PR-33_prackt4_OKFCS_Tests.csproj|c:\\users\\st310-05\\desktop\\fedorov_pr-33_prackt4_okfcs\\fedorov_pr-33_prackt4_okfcs_tests\\recrangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E823BDB6-2725-4148-B5B3-44CA02ACB050}|Fedorov_PR-33_prackt4_OKFCS_Tests\\Fedorov_PR-33_prackt4_OKFCS_Tests.csproj|c:\\users\\st310-05\\desktop\\fedorov_pr-33_prackt4_okfcs\\fedorov_pr-33_prackt4_okfcs_tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E823BDB6-2725-4148-B5B3-44CA02ACB050}|Fedorov_PR-33_prackt4_OKFCS_Tests\\Fedorov_PR-33_prackt4_OKFCS_Tests.csproj|solutionrelative:fedorov_pr-33_prackt4_okfcs_tests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E823BDB6-2725-4148-B5B3-44CA02ACB050}|Fedorov_PR-33_prackt4_OKFCS_Tests\\Fedorov_PR-33_prackt4_OKFCS_Tests.csproj|C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\fedorov_pr-33_prackt4_okfcs_tests\\recrangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E823BDB6-2725-4148-B5B3-44CA02ACB050}|Fedorov_PR-33_prackt4_OKFCS_Tests\\Fedorov_PR-33_prackt4_OKFCS_Tests.csproj|solutionrelative:fedorov_pr-33_prackt4_okfcs_tests\\recrangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8820AC-DEBE-4BC2-8F2C-719D2659550F}|Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS.csproj|c:\\users\\st310-05\\desktop\\fedorov_pr-33_prackt4_okfcs\\fedorov_pr-33_prackt4_okfcs\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B8820AC-DEBE-4BC2-8F2C-719D2659550F}|Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS.csproj|C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\fedorov_pr-33_prackt4_okfcs\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B8820AC-DEBE-4BC2-8F2C-719D2659550F}|Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS.csproj|solutionrelative:fedorov_pr-33_prackt4_okfcs\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS_Tests\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "Fedorov_PR-33_prackt4_OKFCS_Tests\\TriangleTests.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS_Tests\\TriangleTests.cs",
+              "RelativeToolTip": "Fedorov_PR-33_prackt4_OKFCS_Tests\\TriangleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:24:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RecrangleTests.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS_Tests\\RecrangleTests.cs",
               "RelativeDocumentMoniker": "Fedorov_PR-33_prackt4_OKFCS_Tests\\RecrangleTests.cs",
               "ToolTip": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS_Tests\\RecrangleTests.cs",
               "RelativeToolTip": "Fedorov_PR-33_prackt4_OKFCS_Tests\\RecrangleTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T04:16:24.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS\\Triangle.cs",
               "RelativeDocumentMoniker": "Fedorov_PR-33_prackt4_OKFCS\\Triangle.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Fedorov_PR-33_prackt4_OKFCS\\Triangle.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T03:49:30.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T03:49:30.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS\\Rectangle.cs",
               "RelativeDocumentMoniker": "Fedorov_PR-33_prackt4_OKFCS\\Rectangle.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Fedorov_PR-33_prackt4_OKFCS\\Rectangle.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T03:41:47.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T03:41:47.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\Fedorov_PR-33_prackt4_OKFCS\\Fedorov_PR-33_prackt4_OKFCS\\Shape.cs",
               "RelativeDocumentMoniker": "Fedorov_PR-33_prackt4_OKFCS\\Shape.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Fedorov_PR-33_prackt4_OKFCS\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T03:40:15.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T03:40:15.926Z"
             }
           ]
         }

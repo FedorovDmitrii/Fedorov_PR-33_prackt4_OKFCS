@@ -2,3 +2,11 @@ C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFC
 C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.AssemblyInfoInputs.cache
 C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.AssemblyInfo.cs
 C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.csproj.CoreCompileInputs.cache
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\bin\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.deps.json
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\bin\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.dll
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\bin\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.pdb
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.sourcelink.json
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.dll
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\refint\Fedorov_PR-33_prackt4_OKFCS.dll
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\Fedorov_PR-33_prackt4_OKFCS.pdb
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt4_OKFCS\Fedorov_PR-33_prackt4_OKFCS\obj\Debug\net8.0\ref\Fedorov_PR-33_prackt4_OKFCS.dll
