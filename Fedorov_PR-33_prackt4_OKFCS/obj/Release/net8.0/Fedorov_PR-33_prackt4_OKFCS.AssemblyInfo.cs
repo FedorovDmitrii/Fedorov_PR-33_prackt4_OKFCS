@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fedorov_PR-33_prackt4_OKFCS")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9762d2ab04bb56ce7e5ba336820c2fe97437681c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fedorov_PR-33_prackt4_OKFCS")]
