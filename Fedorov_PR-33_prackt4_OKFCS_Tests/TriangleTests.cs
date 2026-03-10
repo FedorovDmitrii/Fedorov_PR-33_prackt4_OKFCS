@@ -21,11 +21,5 @@ namespace Fedorov_PR_33_prackt4_OKFCS_Tests
             var triangle = new Triangle(3, 4, 5);
             Assert.Equal(12, triangle.Perimeter( ));
         }
-        [Fact]
-        public void Triangle_Area_Incorrect ()
-        {
-            var triangle = new Triangle(3, 4, 5);
-            Assert.Equal(10, triangle.Perimeter( ));
-        }
     }
 }
